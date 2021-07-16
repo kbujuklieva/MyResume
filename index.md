@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+# _Kamelia Bujuklieva_
 
-You can use the [editor on GitHub](https://github.com/kbujuklieva/MyResume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### You can check out [my GitHub account](https://github.com/kbujuklieva) here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Markdown
+#### I will use this page to track my progress throughout my journey as a newbie in the programmers' world. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### More specifically, I will track down different topics/concepts/fields that I would like to master in the following months, which I beliveve will also be beneficial when going to interviews in the near future. 
 
-```markdown
-Syntax highlighted code block
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ _Essential **technical** skills that I want to master_
+```
+- Git & GitHub / GitLab
+- Command line
+- HTML5 
+- CSS
+- Node.js
+- Working with JetBrains Toolbox: PyCharm, WebStorm
+- More IDEs - Atom, Sublime Text, VisualStudioCode
+- Bootstrap
+- React 
+- React Native
+- Angular JS
+- Vue.js
+- Unit testing
+- Continuous integration (Jenkins)
+- Databases: SQL
+- Python
+- Web development frameworks with Python: Flask, Django
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ _Essential **soft skills** that I want to master_
+```
+- Project management skills (Agile - Scrum, Kanban) 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kbujuklieva/MyResume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+```
+
+More **technical skills** that I believe are important to me 
+```
+
+
+```
+...and some more
+
+Useful **educational resources** that I am currently relying on for my practice and education
+- fewf
+- frge
+- rgerge
+- rgerg
+- greg
+
+
+Cool **tools** that I found or my friends and colleagues shared with me, which I believe help my efficiency, productivity and quality of work.
+
+- [Typora.io](https://typora.io/)
+- [Codepen.io](https://codepen.io/)
+- [Pastebin.com](https://pastebin.com/)
+- [Repl.it](https://replit.com/in.com)
+- [Trello.com](https://trello.com)
+- [Discord App](https://discord.com/)
+- [Slack.com](https://slack.com/intl/en-bg/) 
+- [Asana.com](https://asana.com)
+- [Evernote App](https://evernote.com/)
+- [Figma.com](https://figma.com)
+
+Best places to **practise my technical skills** and knowledge.
+
+- Leetcode
+- Hackerank
+
+
+
+[Link](url) and ![Image](src)
+
+
+### Contact me 
+ Email: kameliabuyuklieva@gmail.com
+ Mobile number: +359 889 474 004
+
+##### All rights reserved, 2021. 
+
+##### _This page was created on July 16, 2021._
+
