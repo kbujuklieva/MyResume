@@ -20,8 +20,11 @@
 - More IDEs - Atom, Sublime Text, VisualStudioCode
 - Bootstrap
 - React 
+- Gatsby.js (for static pages and great SEO and user experience)
+- Next.js
 - React Native
 - Angular JS
+- TypeScript
 - Vue.js
 - Unit testing
 - Continuous integration (Jenkins)
